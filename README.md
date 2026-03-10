@@ -12,7 +12,7 @@ brew tap fisher158163/tap
 
 ### [XXX](https://github.com/fisher158163/xxx)
 
-A comprehensive macOS cleanup and application uninstall tool.
+A macOS command line tool.
 
 ```bash
 brew install fisher158163/tap/xxx
@@ -31,7 +31,7 @@ xxx --help        # Show help
 
 ### [XXX](https://github.com/fisher158163/xxx)
 
-macOS-native terminal emulator optimized for AI coding workflows.
+A macOS native app.
 
 ```bash
 brew install --cask fisher158163/tap/xxx
